@@ -105,4 +105,4 @@ function createVerifyButton() {
   var verifyButton = document.createElement('button');
   verifyButton.id = 'verify';
   verifyButton.textContent = 'Verify';
-  verify
+  
